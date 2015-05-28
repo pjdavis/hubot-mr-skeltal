@@ -1,0 +1,21 @@
+{
+  "name": "hubot-mr-skeltal",
+  "version": "0.0.1",
+  "description": "mr skeltal will give you good bones and calcium if you thank",
+  "main": "mr-skeltal.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mr-skeltal",
+    "thank",
+    "doot",
+    "doot-doot",
+    "calcium"
+  ],
+  "author": {
+    "name": "PJ Davis",
+    "email": "pj.davis@gmail.com"
+  },
+  "license": "MIT"
+}
