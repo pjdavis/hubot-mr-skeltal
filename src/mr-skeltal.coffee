@@ -16,4 +16,4 @@ thanks = [
 module.exports = (robot) ->
 
   robot.hear /thank mr skeltal/, (msg) ->
-    msg.emote res.random thanks
+    msg.emote msg.random thanks
